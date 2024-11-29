@@ -1,25 +1,30 @@
 import logo from './logo.svg';
 import './App.css';
+import Mission from './components/Mission';
+import Gallery from './components/Gallery';
+import ContactForm from './components/Contact';
+import Footer from './components/Footer';
+import { Header, Hero } from './components/Hero';
+import ScrollingGallery from './components/ScrollingGallery';
+import AboutMe from './components/About';
+import Features from './components/Icons';
+import SocialMedia from './components/SocialMedia';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="min-h-screen">
+      <main>
+        <Hero />
+        <Features />
+        <Mission />
+        <AboutMe />
+        <ScrollingGallery />
+        <SocialMedia />
+        <ContactForm />
+      </main>
+      <Footer />
     </div>
   );
-}
+};
 
 export default App;

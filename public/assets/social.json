@@ -1,0 +1,33 @@
+{
+    "lastUpdated": "2024-11-29",
+    "socialPosts": [
+      {
+        "id": 1,
+        "platform": "facebook",
+        "embedUrl": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02aXJFWJ9ZbfmXenxNGgyBGYwdSWCzTmEUohcUFJPm7Vo7KH2qJhi4n34aZhHdTxChl%26id%3D61562003723548&show_text=true&width=450",
+        "width": 700,
+        "height": 665,
+        "title": "Recent School Update"
+      },
+      {
+        "id": 2,
+        "platform": "facebook",
+        "embedUrl": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0gfenW4PS92eFRjwwALPr1rVQv3G3bd99Pccb6eSCYNChS3Ajidyiao5oPFrKfY2Yl%26id%3D61562003723548&show_text=true&width=450",
+        "width": 700,
+        "height": 665,
+        "title": "School Event"
+      },
+      {
+        "id": 3,
+        "platform": "facebook",
+        "embedUrl": "https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02xThszpCqsfCpTKbSKP4PwtCX7QBUhzymiQcTjnmuWnhjAqtM7MbenkC9A51T9hNel%26id%3D61562003723548&show_text=true&width=450",
+        "width": 700,
+        "height": 645,
+        "title": "School Event"
+      }
+    ],
+    "socialLinks": {
+      "facebook": "https://www.facebook.com/your-page",
+      "instagram": "https://www.instagram.com/your-page"
+    }
+  }
